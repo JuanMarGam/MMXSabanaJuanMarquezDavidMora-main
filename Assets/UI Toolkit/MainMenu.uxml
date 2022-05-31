@@ -1,0 +1,10 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI%20Toolkit/miestilo.uss?fileID=7433441132597879392&amp;guid=10dd5febc9fc04641972dc26dc00dc79&amp;type=3#miestilo" />
+    <ui:VisualElement name="VisualElement" style="height: 100%; background-color: rgba(17, 14, 14, 0.62); width: 100%; align-items: center; justify-content: center; background-image: url(&apos;project://database/Assets/assets3/Capcom-Megaman.jpg?fileID=2800000&amp;guid=1672e6774cf893247b6457d90ee2528f&amp;type=3#Capcom-Megaman&apos;);">
+        <ui:VisualElement style="background-color: rgba(237, 247, 248, 0.48); height: 732px; width: 800px; align-items: center; justify-content: center; border-top-left-radius: 35px; border-bottom-left-radius: 35px; border-top-right-radius: 35px; border-bottom-right-radius: 35px; margin-top: 0; margin-left: 0; margin-right: 0; margin-bottom: 0;">
+            <ui:Button text="Start Game" display-tooltip-when-elided="true" name="start-btn" class="my_btn" />
+            <ui:Button text="Show Developers" display-tooltip-when-elided="true" name="msg-btn" class="my_btn" />
+            <ui:Label text="Label" display-tooltip-when-elided="true" name="msg-txt" style="font-size: 36px; -unity-font-style: bold; color: rgb(14, 14, 83); position: absolute; top: 15px; display: none;" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

@@ -1,0 +1,9 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI%20Toolkit/finalstyle.uss?fileID=7433441132597879392&amp;guid=3fce5a04c1908764791f3bcd63980109&amp;type=3#finalstyle" />
+    <ui:Label display-tooltip-when-elided="true" style="width: 100%; height: 100%; align-items: center; justify-content: center; background-image: url(&apos;project://database/Assets/assets_platformer/bg_A.jpg?fileID=2800000&amp;guid=a76d7fb162186438ab40b379b79f2948&amp;type=3#bg_A&apos;);">
+        <ui:Label display-tooltip-when-elided="true" name="Label" style="width: 650px; height: 800px; align-items: center; justify-content: center;">
+            <ui:Button text="Main Menu&#10;" display-tooltip-when-elided="true" name="btn-mainmenu" class="btn-style btn-style2" style="border-top-left-radius: 20px; border-bottom-left-radius: 20px; border-top-right-radius: 20px; border-bottom-right-radius: 20px;" />
+            <ui:Label text="CONGRATULATIONS&#10;YOU WON !!!" display-tooltip-when-elided="true" style="position: absolute; top: 25%; font-size: 50px; color: rgb(255, 255, 255);" />
+        </ui:Label>
+    </ui:Label>
+</ui:UXML>

@@ -1,0 +1,25 @@
+.my_btn {
+    height: 100px;
+    width: 80%;
+    background-color: rgb(16, 28, 53);
+    color: rgb(245, 244, 244);
+    font-size: 32px;
+    margin-bottom: 20px;
+    border-top-left-radius: 35px;
+    border-bottom-left-radius: 35px;
+    border-top-right-radius: 35px;
+    border-bottom-right-radius: 35px;
+}
+
+.my_btn:hover {
+    height: 100px;
+    width: 80%;
+    background-color: rgb(33, 90, 209);
+    color: rgb(245, 244, 244);
+    font-size: 32px;
+    margin-bottom: 20px;
+    border-top-left-radius: 35px;
+    border-bottom-left-radius: 35px;
+    border-top-right-radius: 35px;
+    border-bottom-right-radius: 35px;
+}

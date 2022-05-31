@@ -1,0 +1,25 @@
+.btn-style {
+    margin-top: 75%;
+    width: 300px;
+    background-color: rgb(57, 180, 65);
+    font-size: 36px;
+}
+
+.btn-style:hover {
+    margin-top: 75%;
+    width: 300px;
+    background-color: rgb(22, 135, 12);
+    font-size: 36px;
+}
+
+.btn-style2 {
+    padding-top: 8%;
+    padding-bottom: 3px;
+    background-color: rgba(49, 120, 53, 255);
+}
+
+.btn-style2:hover {
+    padding-top: 8%;
+    padding-bottom: 3px;
+    background-color: rgb(7, 82, 10);
+}
